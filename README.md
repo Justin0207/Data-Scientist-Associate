@@ -70,7 +70,8 @@ The dataset comes from a local moped review website and is available at: moped.c
 - Binary classification:
   - `1` → Owner
   - `0` → Non-owner
-- Best model: 
+    
+- Best model: 82% Accuracy
 
 ---
 
