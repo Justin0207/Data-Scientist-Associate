@@ -58,8 +58,7 @@ The dataset comes from a local moped review website and is available at: moped.c
    - Handling missing values
 3. **Modeling**
    - Logistic Regression
-   - Random Forest
-   - Gradient Boosting (e.g., XGBoost or LightGBM)
+   - SVC
 4. **Evaluation**
    - Accuracy, Precision, Recall, F1-score
    - ROC-AUC
@@ -75,5 +74,9 @@ The dataset comes from a local moped review website and is available at: moped.c
 
 ---
 
+## 📬 Contact
+For questions or contributions, reach out via:
+
+Email: anyanwujustice27@gmail.com
 
 
